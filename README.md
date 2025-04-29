@@ -40,6 +40,7 @@ You can integrate the database with a **FastAPI (Python) or Node.js (JavaScript)
 
 ## **Entity Relationship Diagram (ERD)**
 Here is the ERD representing the database structure:
+![Schema Description]([https://your-image-url](https://github.com/natalieosita/Database-Project/blob/main/STUDENTS%20RECORDS.drawio.png))
 
 
 ---
